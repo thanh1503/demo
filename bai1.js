@@ -13,5 +13,6 @@ console.log(numbers.sort((a,b) => a < b ? -1 : a > b ? 1 : 0));
 
 //  ? neu thi , : neu k thi 
 sữa cho vui
+edit text ne
 
 
